@@ -29,7 +29,7 @@ This project is inspired by my commitment to accessible learning, innovation for
 
 ## 🤝 Connect  
 Feel free to reach out for collaborations, freelance work, or just a techy chat!  
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/anirban-das-261253322/])  
+- 🔗 ([https://www.linkedin.com/in/anirban-das-261253322/])  
 - ✉️ [Email] (anirbandas6778788@gmail.com)
 - 🧑‍💼 Portfolio: [(https://anirban16-portfolio.netlify.app/) ](https://anirban16-portfolio.netlify.app/)
 

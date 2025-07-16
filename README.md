@@ -21,7 +21,8 @@ This portfolio is more than just a collection of projects — it's a creative re
 I’m Anirban — a third-year BTech student with a passion for crafting inclusive and impactful tech solutions. I specialize in React.js, Django, and full-stack product development, balancing academic depth with entrepreneurial creativity.
 
 ## 📸 Live Preview  
-🔗  ![Uploading Screenshot 2025-04-28 005111.png…]()
+🔗  <img width="1866" height="874" alt="Screenshot 2025-04-28 005111" src="https://github.com/user-attachments/assets/faf2bfb4-b8f0-44f4-b0ce-9da78ee6add0" />
+
 
 
 ## 🧠 Inspirations  
